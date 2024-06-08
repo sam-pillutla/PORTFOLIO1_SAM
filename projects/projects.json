@@ -1,0 +1,142 @@
+[
+  {
+    "name": "EventWhiz",
+    "desc": "EventWhiz stands as a groundbreaking web platform, redefining the landscape of event management by streamlining both attendance and hosting processes.<br><span style=\"color: purple;font-weight: bold;\">UI/UX DESIGN | PROTOTYPE | FRONTEND</span>",
+    "image": "Eventwhiz1",
+    "category": "mern",
+    "links": {
+      "view": "https://event-whiz-frontend.vercel.app/",
+      "code": "https://github.com/sam-pillutla/EventWhiz/tree/main/Frontend"
+    }
+  },
+  
+  {
+    "name": "Go Tracker App",
+    "desc": "VIT Shutle tracking app using motion figma,which makes students easy to take up a shutle on time by reducing their waiting hustle.<br><span style=\"color: purple;font-weight: bold;\">UI/UX DESIGN",
+    "image": "gotracker",
+    "category": "ui",
+    "links": {
+      "view": "https://www.figma.com/proto/WLXXXf0A1UaB6iXT0oWDmT/shutle-tracker_motion?page-id=0%3A1&node-id=14-313&viewport=3835%2C385%2C0.58&t=9TxJqC7dsC4EFrlL-1&scaling=scale-down&starting-point-node-id=75%3A62&show-proto-sidebar=1",
+      "code": "https://www.figma.com/design/WLXXXf0A1UaB6iXT0oWDmT/shutle-tracker_motion?node-id=0-1&t=a3PlewqS1B3hDU4E-1"
+    }
+  },
+  {
+    "name": "AI Image Caption generator",
+    "desc": " Developed a Image Caption Generator Model using Deep Learning Techniques like CNN and LSTM.<br><span style=\"color: purple;font-weight: bold;\">AI",
+    "image": "icg2",
+    "category": "Ai",
+    "links": {
+      "view": "https://github.com/sam-pillutla/Image-Caption-Generator",
+      "code": "https://github.com/sam-pillutla/Image-Caption-Generator"
+    }
+  },
+  {
+    "name": "Suvidha NGO Website",
+    "desc": "Dynamic React-based site for Suvidha Foundation with modern UI/UX for intuitive, visually appealing experience.<br><span style=\"color: purple;font-weight: bold;\">UI/UX DESIGN  |  PROTOTYPE |  FRONTEND DEV</span>",
+    "image": "suvidha",
+    "category": "mern",
+    "links": {
+      "view": "https://suvidha-website-sp.vercel.app/",
+      "code": "https://github.com/sam-pillutla/SUVIDHA_WEBSITE_SP"
+    }
+  },
+  {
+    "name": "Flixdin Company",
+    "desc": "Crafted sleek user interfaces for Flixdin, a filmmakers’ platform, using Figma.<br><span style=\"color: purple;font-weight: bold;\">UI/UX DESIGN",
+    "image": "FLIXDIN",
+    "image-margin-top": "10px", 
+    "category": "ui",
+    "links": {
+      "view": "https://github.com/sam-pillutla/FLIXDIN",
+      "code": "https://github.com/sam-pillutla/FLIXDIN"
+    }
+  },
+  {
+    "name": "EduGen",
+    "desc": "EduGen is a students learning web platform ,where i designed a sleek user interface using figma.<br><span style=\"color: purple;font-weight: bold;\">UI/UX DESIGN | PROTOTYPE",
+    "image": "EDUGEN1",
+    "category": "ui",
+    "links": {
+      "view": "https://www.figma.com/proto/8zCZu7Fyvcnrasr8pwJZn5/EduGen2?page-id=0%3A1&node-id=0-1&starting-point-node-id=4%3A494&t=xqysX6SPo9zFCLis-1",
+      "code": "https://github.com/sam-pillutla/EDUGEN"
+    }
+  },
+  {
+    "name": "BUILDERZ ",
+    "desc": "A web application designed for connecting people to builders and architects ,used html,bs,css.<br><span style=\"color: purple;font-weight: bold;\">UI |  FRONTEND DEV</span>",
+    "image": "BUILDERZ",
+    "category": "mern",
+    "links": {
+      "view": "https://sam-pillutla.github.io/MERN_TASKS_BS_JS/BOOTSTRAP_SAM/BS-TASK2/boot-task2.html",
+      "code": "https://github.com/sam-pillutla/MERN_TASKS_BS_JS/tree/main/BOOTSTRAP_SAM/BS-TASK2"
+    }
+  },
+  {
+    "name": "Registration forms",
+    "desc": "Different purposed registration forms using html,bootstrap.",
+    "image": "FORM",
+    "category": "mern",
+    "links": {
+      "view": "https://sam-pillutla.github.io/MERN_TASKS_BS_JS/BOOTSTRAP_SAM/BS-TASK5/boot-task5.html",
+      "code": "https://github.com/sam-pillutla/MERN_TASKS_BS_JS/tree/main/BOOTSTRAP_SAM/BS-TASK5"
+    }
+  },
+  {
+    "name": "Age Calculator",
+    "desc": "Simple website to calculate age",
+    "image": "age",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/sam-pillutla/REACT_TASK-5/tree/main/task5",
+      "code": "https://react-task-5-wine-gamma.vercel.app/"
+    }
+  },
+  {
+    "name": "Background Color Changer",
+    "desc": "Changes the background to the colour selected",
+    "image": "colorc",
+    "category": "mern",
+    "links": {
+      "view": "https://react-task-3-blush-one.vercel.app/ ",
+      "code": "https://github.com/sam-pillutla/REACT_TASK3/tree/main/task-3"
+    }
+  },
+  {
+    "name": "Simple caluclator",
+    "desc": "Does simple math caluclations",
+    "image": "math",
+    "category": "mern",
+    "links": {
+      "view": "https://react-task-2-rose.vercel.app",
+      "code": "https://github.com/sam-pillutla/REACT_TASK2/tree/main/task-2"
+    }
+  },
+  {
+    "name": "Word Counter",
+    "desc": "Counts the word in the paragraph",
+    "image": "word",
+    "category": "mern",
+    "links": {
+      "view": "https://react-task-1-amber-five.vercel.app/",
+      "code": "https://github.com/sam-pillutla/REACT_TASK-1/tree/main/task-1"
+    }
+  },
+  {
+    "name": "ADDITIONAL HTML/CSS PROJECTS",
+    "desc": "HTML & CSS",
+    "image": "HTMLL",
+    "links": {
+      "view": "https://github.com/sam-pillutla/MERN_TASK_html-css",
+      "code": "https://github.com/sam-pillutla/MERN_TASK_html-css"
+    }
+  },
+  {
+    "name": "ADDITIONAL REACT PROJECTS",
+    "desc": "REACT",
+    "image": "REACTT",
+    "links": {
+      "view": "https://github.com/sam-pillutla/REACT_INDEX",
+      "code": "https://github.com/sam-pillutla/REACT_INDEX"
+    }
+  }
+]
