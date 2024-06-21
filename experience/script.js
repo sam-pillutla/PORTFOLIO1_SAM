@@ -71,8 +71,8 @@ function(){
         document.title = "Experience | Portfolio Guna Nalam";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
-    else {
-        document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png");
-    }
+    // else {
+    //     document.title = "Come Back To Portfolio";
+    //     $("#favicon").attr("href","/assets/images/favhand.png");
+    // }
 });
