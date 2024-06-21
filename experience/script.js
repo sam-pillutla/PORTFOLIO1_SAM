@@ -68,7 +68,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Guna Nalam";
+        document.title = "Experience | Portfolio Sam Pillutla";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     // else {
