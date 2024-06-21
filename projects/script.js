@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Guna Nalam";
+            document.title = "Projects | Portfolio Sam Pillutla";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         // else {
@@ -117,7 +117,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 })();
 // End of Tawk.to Live Chat
 
-// diNalam developer mode
+// diSam developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
